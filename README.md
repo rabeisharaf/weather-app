@@ -8,8 +8,8 @@
 # to run project
 
 1-Go to project folder
-2-type in terminal "npm i"and "node server.js"
-3-open file "index.html" in any browser you have which in website folder
+2-type in terminal "npm i express cors body-parser" and "node server.js"
+3-open "localhost:3000" in any browser
 
 # author
 
