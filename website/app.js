@@ -78,5 +78,3 @@ const updateUI = async () => {
     console.log('error', error)
   }
 }
-
-// Async POST
